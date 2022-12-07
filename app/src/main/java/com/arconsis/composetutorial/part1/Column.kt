@@ -19,13 +19,13 @@ fun ColumnExample() {
  * Θα πρέπει να βγάλετε τα σχόλια απο τον παρακάτω κώδικα
  * για να δείτε το αποτέλεσμα
  */
-@Composable
-fun ColumnExampleStudents() {
-//    Column {
-//        Text(text = "Hello Grevena")
-//        Text(text = "Hello Students")
-//    }
-}
+//@Composable
+//fun ColumnExampleStudents() {
+////    Column {
+////        Text(text = "Hello Grevena")
+////        Text(text = "Hello Students")
+////    }
+//}
 
 @Preview(showBackground = true)
 @Composable

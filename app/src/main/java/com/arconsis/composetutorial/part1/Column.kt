@@ -34,3 +34,17 @@ fun DefaultPreview() {
         ColumnExample()
     }
 }
+
+
+/**
+ * Οταν τελείωσετε με το παράδειγμα πάνω
+ * βγάλτε τα σχόλια απ τον κώδικα που ακολουθεί
+ * για να δείτε το αποτελεσμά σας
+ */
+//@Preview(showBackground = true)
+//@Composable
+//fun StudentsPreview() {
+//    ComposeTutorialTheme {
+//        ColumnExampleStudents()
+//    }
+//}

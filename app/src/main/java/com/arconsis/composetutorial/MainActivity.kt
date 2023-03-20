@@ -22,6 +22,8 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colors.background
                 ) {
+                    // TODO: Add 3 buttons to show different screens
+                    // But explain that we would use navigation component here
                     Greeting("Android")
                 }
             }

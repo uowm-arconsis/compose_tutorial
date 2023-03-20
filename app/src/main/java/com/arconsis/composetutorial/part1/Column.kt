@@ -6,6 +6,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import com.arconsis.composetutorial.components.Android
 import com.arconsis.composetutorial.ui.theme.ComposeTutorialTheme
 
+// TODO: Τι αποτέλεσμα θα βλέπαμε αν δεν χρησιμοποιούσαμε το Column;
 @Composable
 fun ColumnExample() {
     Column {

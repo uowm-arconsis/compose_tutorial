@@ -12,7 +12,6 @@ fun RowExample() {
         Android(text = "Grevena")
         Android(text = "Students")
     }
-
 }
 
 @Preview(showBackground = true)
